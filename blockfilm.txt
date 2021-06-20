@@ -1,6 +1,7 @@
 # untuk block url/ip server film streaming bikin lemot bandwith temannya :) 
 # maniak bandwith loading film 
 #url streaming film indonesia
+anekamovie.xyz
 cinemaindo.co.in
 www.layarkaca21official.com
 layarfilm99.live
